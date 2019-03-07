@@ -1,0 +1,6 @@
+secondes	main.js	/^var secondes =  document.getElementById('chrono').textContent;$/;"	v
+stock	main.js	/^var stock = secondes;$/;"	v
+prix	main.js	/^var prix = 0;$/;"	v
+prixMax	main.js	/^var prixMax = document.getElementsByClassName('PrxMax')[0].textContent;$/;"	v
+saisie	main.js	/^var saisie = null;$/;"	v
+isplaying	main.js	/^var isplaying = true;$/;"	v
